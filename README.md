@@ -5,4 +5,4 @@ Este é um repositório de exemplo criado para treinar o uso do GitHub e organiz
 
 - 'index.html' -> Página principal do site
 - 'style.css' -> Estilo da página (cores, fontes, espaçamentos etc.)
-- 'imagens/' -> Pasta onde ficarão as imagens usadas no site |
+- 'imagens/' -> Pasta onde ficarão as imagens usadas no site
